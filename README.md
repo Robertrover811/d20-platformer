@@ -5,13 +5,17 @@ A small game I am making with [Hack Club's Game Lab.](https://github.com/hackclu
 ## Working
 
 Sprites loading 
+
 platforms bouncing
 
 ## Needs to be Implemented
 
 Generation of new platforms
+
 Game Over screen
+
 Dice rolling
+
 (Definetly more but this is all I can remember)
 
 
