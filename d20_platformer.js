@@ -1,4 +1,4 @@
- const canvas = document.querySelector(".game-canvas");
+const canvas = document.querySelector(".game-canvas");
 const e = createEngine(canvas, 300, 300);
 const ctx = e.ctx;
 
